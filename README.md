@@ -1,5 +1,5 @@
 ### NAME: HARIHARAN.V
-### REG NO: 24002937
+### REG NO: 212224220032
 ### EXP NO 5: IMPLEMENTATION OF JKFLIPFLOP 
 
 ### **AIM:** 
@@ -48,15 +48,14 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 6. Run the program.
 
 ### **PROGRAM**
-![Screenshot 2024-12-25 192425](https://github.com/user-attachments/assets/966edc07-d2eb-469e-868d-207accebb9cb)
+<img width="563" height="137" alt="Screenshot 2025-10-16 204529" src="https://github.com/user-attachments/assets/747e3dc1-0a70-4a19-97bf-550aee621e6e" />
 
 
 
 ### **RTL LOGIC FOR FLIPFLOPS**
-![Screenshot 2024-12-25 192633](https://github.com/user-attachments/assets/ee6b797a-60f1-49c7-82cb-f03c568d2fe1)
+<img width="1167" height="563" alt="Screenshot 2025-10-16 204549" src="https://github.com/user-attachments/assets/74731697-36e8-42fa-bffb-c94a56a85587" />
 
 ### **TIMING DIGRAMS FOR FLIP FLOPS**
-![jk waveform](https://github.com/user-attachments/assets/cbf18d4b-231c-41e5-87ba-41e5f21c9fbe)
-
+<img width="1176" height="599" alt="Screenshot 2025-10-16 204615" src="https://github.com/user-attachments/assets/fe25e9e7-6536-469d-b9a3-6783bd851cd2" />
 ### **RESULTS**
 THE OUTPUT FOR JK FLIPFLOP IS TESTED AND VERIFIED.
